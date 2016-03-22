@@ -1,0 +1,14 @@
+layout_spectrum: 0.3149146
+typography_spectrum: 0.6248862
+color:
+  saturation: 0.6112173
+  lightness: 0.8823363
+  brandStrength: 0.9544634
+  rhythmicContrast: 0.740087
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: 'Keratin '
